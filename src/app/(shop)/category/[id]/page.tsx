@@ -1,5 +1,3 @@
-import { notFound } from "next/navigation";
-
 type CategoryByIdPageProps = {
   params: { id: string };
   searchParams: {
